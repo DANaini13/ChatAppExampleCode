@@ -1,3 +1,3 @@
 # ChatAppExampleCode
 
-This is a terminal program that creating by IntellJ.
+This is a terminal program that created by IntellJ.
